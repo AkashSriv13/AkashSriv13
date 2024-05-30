@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning MERN stack
 - 👯 I’m looking to collaborate on projects related to full-stack
 - 💬 Ask me about Node js, React js, Redux, Mongo db
-- 📫 How to reach me: **srivastavaakash558@gmail.com@gmail.com**
+- 📫 How to reach me: **srivastavaakash558@gmail.com**
 
 ### Techs and tools I use:
 
