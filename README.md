@@ -1,13 +1,11 @@
-# <h1 align="center">Hi there 👋, I'am Manoj Kumar</h1>
+# <h1 align="center">Hi there 👋, I'am Akash Srivastava</h1>
 
 ### <h3 align="center">A passionate full stack web developer from India</h3>
 
-- 🔭 I’m currently working on slack clone
 - 🌱 I’m currently learning MERN stack
-- 👯 I’m looking to collaborate on projects related to full stack
+- 👯 I’m looking to collaborate on projects related to full-stack
 - 💬 Ask me about Node js, React js, Redux, Mongo db
-- 📫 How to reach me: **manojkumarathiyappan@gmail.com**
-- 😄 Pronouns: Mano
+- 📫 How to reach me: **srivastavaakash558@gmail.com@gmail.com**
 
 ### Techs and tools I use:
 
@@ -28,16 +26,6 @@
 <img src="https://user-images.githubusercontent.com/84341752/168604280-e2b697a1-86df-4a28-9797-2875d4bba352.svg" width="40">
 </div>
 
-<div>&nbsp;
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Manoj-Athi&show_icons=true&theme=dark" alt="manoj" />
-</p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj-Athi&layout=compact&theme=dark" alt="manoj" />
-</p>
-&nbsp;
-<p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Manoj-Athi&theme=dark" alt="manoj" />
-</p>
+
 </div>
