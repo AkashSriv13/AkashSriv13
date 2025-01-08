@@ -1,10 +1,10 @@
 # <h1 align="center">Hi there 👋, I'am Akash Srivastava</h1>
 
-### <h3 align="center">A passionate full stack web developer from India</h3>
+### <h3 align="center">A passionate Data Analyst from India</h3>
 
 - 🌱 I’m currently learning MERN stack
-- 👯 I’m looking to collaborate on projects related to full-stack
-- 💬 Ask me about Node js, React js, Mongo db
+- 👯 I’m looking to collaborate on projects related to Business Analysis
+- 💬 Ask me about SQL, Python and AWS
 - 📫 How to reach me: **srivastavaakash558@gmail.com**
 
 ### Techs and tools I use:
